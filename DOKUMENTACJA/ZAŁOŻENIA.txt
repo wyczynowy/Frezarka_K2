@@ -1,0 +1,4 @@
+===== ZAŁOŻENIA KONSTRUKCYJNE =====
+
+1. Pole pracy 600 x 1000 x 80
+...
