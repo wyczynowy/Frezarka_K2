@@ -1,4 +1,13 @@
 ===== ZAŁOŻENIA KONSTRUKCYJNE =====
 
-1. Pole pracy 600 x 1000 x 80
-...
+1. Pole pracy 500 x 800 x 50
+2. Rama z profilów firmy v-slot 20 x 40 -> Tutaj wymiary przekroju: https://hobby-store.pl/profile-aluminiowe/profil-aluminiowy-20x40-500mm-v-slot-czarny.html
+3. Rama skręcana przy użyciu kątowników oraz nakrętek: https://www.v-slot.pl/pl/p/Naroznik-90-stopni-Natural/217
+													   https://www.v-slot.pl/pl/p/T-Nut-Wpust-rowkowy-do-profili-M5-25-szt/292
+4. Posuw liniowy przy użyciu prowadnic liniowych: https://nettigo.pl/products/prowadnica-liniowa-mgn9r-900mm-z-wozkiem-mgn9c
+												  https://nettigo.pl/products/wozek-mgn9c-do-prowadnicy-liniowej-mgn9r
+5. Śruby trapezowe : https://www.ebmia.pl/sruba-trapezowa-10x2-1000-p-142.html
+					 https://www.ebmia.pl/nakretka-trapezowa-kolnierzowa-jfrm2525tr10x3-p-42735.html
+					 https://www.ebmia.pl/blok-lozyskujacy-bk10-p-737.html
+
+X. Uchwyt montażowy do narzędzia: https://www.v-slot.pl/pl/p/Uchwyt-montazowy-do-narzadzenia-/202
